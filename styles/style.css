@@ -2,10 +2,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap");
 :root {
   --cor-primaria: #2f3f4f;
-  --cor-secundaria: #ff0000;
+  --cor-secundaria: #d40b0b;
   --cor-terciaria: #f6f6f6;
   --cor-hover: #2c3b4a;
-  --cor-mobile: #cc0404;
 
   --font-primaria: "Krona One", sans-serif;
   --font-secundaria: "Montserrat", sans-serif;
@@ -172,13 +171,8 @@ body {
   .apresentacao__conteudo {
     width: auto;
   }
-  .apresentacao__links__botao {
-    border: 3px solid var(--cor-mobile);
-    box-shadow: 0 10px 0 var(--cor-mobile);
-  }
   .apresentacao__links__botao:hover {
     transform: none;
-    box-shadow: 0 10px 0 var(--cor-mobile);
   }
   .foto {
     width: 60%;
@@ -187,7 +181,6 @@ body {
   }
   .rodape {
     margin-top: 50px;
-    background-color: var(--cor-mobile);
   }
   .cabecalho2 {
     padding: 10%;
