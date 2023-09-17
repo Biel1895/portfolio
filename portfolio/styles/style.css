@@ -171,6 +171,9 @@ body {
   .apresentacao__conteudo {
     width: auto;
   }
+  .apresentacao__links__botao:hover {
+    transform: none;
+  }
   .foto {
     width: 60%;
     height: 60%;
@@ -178,6 +181,7 @@ body {
   }
   .rodape {
     margin-top: 50px;
+    background-color: #ed0202;
   }
 
   .cabecalho2 {
