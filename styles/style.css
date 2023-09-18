@@ -5,6 +5,7 @@
   --cor-secundaria: #d40b0b;
   --cor-terciaria: #f6f6f6;
   --cor-hover: #2c3b4a;
+  --cor-rotape: #a10e0e;
 
   --font-primaria: "Krona One", sans-serif;
   --font-secundaria: "Montserrat", sans-serif;
@@ -181,6 +182,7 @@ body {
   }
   .rodape {
     margin-top: 50px;
+    background-color: var(--cor-rotape);
   }
   .cabecalho2 {
     padding: 10%;
