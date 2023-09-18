@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio! Este é o lugar onde compartilho meu trabalho como desenvolvedor e minha paixão pela tecnologia. Continue lendo para saber mais sobre mim e como entrar em contato.
 
-![Screenshot do Site](./assets/screenshot.png)
+![Screenshot do Site](./assets/screencapture-biel1895-tech-2023-09-18-13_03_52.png)
 
 ## Sobre Mim
 
@@ -12,7 +12,6 @@ Sou Gabriel Rios, um desenvolvedor em formação empenhado a criar experiências
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## Como Visualizar o Site
 
