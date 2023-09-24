@@ -5,11 +5,13 @@
   --cor-secundaria: #d40b0b;
   --cor-terciaria: #f6f6f6;
   --cor-background: #183e65;
-  --cor-hover: rgba(108, 109, 130, 0.163);
+  --cor-hover: rgba(112, 112, 122, 0.295);
   --cor-rotape: #a10e0e;
   --cor-quaternaria: #abaaaa;
   --cor-scrollbar: #888;
   --cor-quadrados: #ffffff18;
+  --cor-menu: rgba(0, 0, 0, 0.884);
+  --cor-borda: rgba(139, 139, 139, 0.279);
 
   --font-primaria: "Krona One", sans-serif;
   --font-secundaria: "Montserrat", sans-serif;
@@ -151,7 +153,7 @@ body {
   height: 100%;
   padding-top: 30vh;
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.884);
+  background-color: var(--cor-menu);
   margin-left: -300px;
   transition: all ease 0.7s;
 }
@@ -357,8 +359,8 @@ video {
   align-items: center;
   justify-content: center;
   text-align: center;
-  border: 0px solid rgba(139, 139, 139, 0.279);
-  background-color: rgba(139, 139, 139, 0.279);
+  border: 0px solid var(--cor-borda);
+  background-color: var(--cor-borda);
   border-top-left-radius: 15px;
   border-top-right-radius: 2px;
   border-bottom-right-radius: 15px;
@@ -379,8 +381,8 @@ video {
   align-items: center;
   justify-content: center;
   text-align: center;
-  border: 0px solid rgba(139, 139, 139, 0.279);
-  background-color: rgba(139, 139, 139, 0.279);
+  border: 0px solid var(--cor-borda);
+  background-color: var(--cor-borda);
   border-top-left-radius: 15px;
   border-top-right-radius: 2px;
   border-bottom-right-radius: 15px;
@@ -395,10 +397,10 @@ video {
   animation: fadeIn 1s forwards 0.8s;
 }
 .tech__um:hover {
-  background-color: rgba(139, 139, 139, 0.336);
+  background-color: var(--cor-hover);
 }
 .tech__dois:hover {
-  background-color: rgba(139, 139, 139, 0.336);
+  background-color: var(--cor-hover);
 }
 
 .paragrafo__um {
