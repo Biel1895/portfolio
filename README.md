@@ -27,7 +27,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, propo
 
 ## Autor
 
-Desenvolvido por Gabriel Rios..
+Desenvolvido por Gabriel Rios.
 
 ---
 
