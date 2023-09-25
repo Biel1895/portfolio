@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio! Este é o lugar onde compartilho meu trabalho como desenvolvedor e minha paixão pela tecnologia. Continue lendo para saber mais sobre mim e como entrar em contato.
 
-![Screenshot do Site](./assets/screencapture-biel1895-tech-2023-09-18-13_03_52.png)
+![Screenshot do Site](<./assets/screencapture-127-0-0-1-5500-index-html-2023-09-24-20_39_03%20(1).png>)
 
 ## Sobre Mim
 
