@@ -116,7 +116,7 @@ body {
   animation: animar calc(500s / var(--i)) linear infinite;
 }
 
-.menu__check {
+#menu__check {
   margin-left: 30px;
   margin-top: 30px;
   position: fixed;
@@ -146,20 +146,20 @@ body {
   transition: all ease 0.2s;
 }
 
-.menu__check:checked~.menu__lines span {
+#menu__check:checked~.menu__lines span {
   background-color: var(--cor-terciaria);
 }
 
-.menu__check:checked~.menu__lines span:nth-child(1) {
+#menu__check:checked~.menu__lines span:nth-child(1) {
   transform-origin: 0% 0%;
   transform: rotate(45deg) scaleX(1.25);
 }
 
-.menu__check:checked~.menu__lines span:nth-child(2) {
+#menu__check:checked~.menu__lines span:nth-child(2) {
   opacity: 0;
 }
 
-.menu__check:checked~.menu__lines span:nth-child(3) {
+#menu__check:checked~.menu__lines span:nth-child(3) {
   transform-origin: 0% 100%;
   transform: rotate(-45deg) scaleX(1.25);
 }
@@ -178,7 +178,7 @@ body {
   transition: all ease 0.3s;
 }
 
-.menu__check:checked~.cabecalho__menu {
+#menu__check:checked~.cabecalho__menu {
   margin-left: 0;
 }
 
